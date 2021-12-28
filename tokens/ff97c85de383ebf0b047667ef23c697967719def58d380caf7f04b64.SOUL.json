@@ -1,0 +1,9 @@
+{
+    "policyId": "ff97c85de383ebf0b047667ef23c697967719def58d380caf7f04b64",
+    "name": "SOUL",
+    "symbol": "SOUL",
+    "website": "https://soul-token.com",
+    "description": "SOUL is the 333rd native asset minted on the Cardano blockchain, minted on March 3rd 2021 at 7:06:29 UTC, making it one of the first assets ever minted on Cardano. Own a piece of Cardano history... and collect human souls as well (kinda..)",
+    "totalSupply": 7800000000,
+    "amounts": [100, 1000, 10000, 100000, 1000000, 10000000]
+}
